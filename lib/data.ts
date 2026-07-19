@@ -12,8 +12,8 @@ export const user = {
 
 export const mentors: Mentor[] = [
   {
-    id: "budi-santoso",
-    name: "Budi Santoso",
+    id: "budi-akbar",
+    name: "Budi Akbar",
     role: "Senior Frontend Engineer",
     company: "Gojek",
     image:
@@ -76,7 +76,7 @@ export const sessions: Session[] = [
   {
     id: "1",
     title: "Review Portofolio Frontend",
-    mentor: "Budi Santoso",
+    mentor: "Budi Akbar",
     role: "Senior Frontend Engineer",
     date: "Hari Ini",
     time: "19.00 - 20.00 WIB",

@@ -157,7 +157,7 @@ export default function ProfilePage() {
 
               <Input
                 label="Email"
-                defaultValue="rafly@email.com"
+                defaultValue="raflyfernandes@email.com"
               />
 
               <Input
@@ -220,7 +220,7 @@ export default function ProfilePage() {
             </p>
 
             <h3 className="text-xl font-bold">
-              Budi Santoso
+              Budi Akbar
             </h3>
 
           </CardContent>

@@ -45,7 +45,7 @@ export default function DashboardPage() {
           </h2>
 
           <p className="mb-8 text-lg text-white/80">
-            Kamu memiliki sesi bersama <strong>Budi Santoso</strong> mengenai
+            Kamu memiliki sesi bersama <strong>Budi Akbar</strong> mengenai
             Review Portofolio Frontend pukul <strong>19.00 WIB</strong>.
             Siapkan pertanyaan dan project terbaikmu agar sesi berjalan lebih
             maksimal.
